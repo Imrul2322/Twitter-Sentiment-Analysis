@@ -1,5 +1,11 @@
 # Twitter Sentiment Analysis
 
+## Key Findings
+
+## Table of Contents
+
+## Problem Statement
+
 ## Data Collection
 
 ## Text Preprocessing
